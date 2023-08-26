@@ -10,13 +10,13 @@ This repository demonstrates a step-by-step pipeline to build, train, evaluate, 
 
 ## Installation
 
-   Clone this repository:
+   Clone this repository
    git clone https://github.com/Nour11111/House_Price_Prediction.git
    cd House_Price_Prediction
    Install the required Python libraries
-   Place  housing dataset in the project directory as 'housing.csv'.
+   Place  housing dataset in the project directory as 'housing.csv'
    Run the main script to execute the complete pipeline
-   python House_Price_Prediction.py
+   python housing_price_model.py
    
 Follow the console outputs to observe each step of the pipeline.
 
